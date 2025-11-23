@@ -249,7 +249,8 @@ python app.py
 
 # Research Pro (Research Agent)
 cd research_agent
-& "C:/Users/1041025/OneDrive - Blue Yonder/Desktop/Blue Yonder Project/Task/Divami AI Task/v3/ai-assignment/.venv/Scripts/python.exe" main.py
+& "File root path /.venv/Scripts/python.exe" main.py
 ```
 
 **Ready for submission as an original work demonstrating advanced AI integration skills!**
+
